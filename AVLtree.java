@@ -1,6 +1,6 @@
 /**
  * 600.226, Fall 2015
- * Authors: Tanay Agarwal, Nirmal Krishnan, Rosie Grant.
+ * Authors: Tanay Agarwal
  * Assignment: 4
  */
 import java.util.Collection;

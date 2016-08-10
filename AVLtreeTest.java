@@ -1,5 +1,5 @@
 /*
-Authors: Tanay Agarwal, Rosie Grant, Nirmal Krishnan
+Authors: Tanay Agarwal
 Class: Data Structures
 Assignment: 4
 */
