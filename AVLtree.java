@@ -1,8 +1,3 @@
-/**
- * 600.226, Fall 2015
- * Authors: Tanay Agarwal
- * Assignment: 4
- */
 import java.util.Collection;
 import java.util.LinkedList;
 import java.util.ArrayList;
